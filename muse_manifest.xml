@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NCKU.COM" resolutions="1x" timestamp="1536301468477">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NCKU.COM" resolutions="1x" timestamp="1536303916367">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-__.css" crc="462861836" ref="index:報名資訊:影音簡介:天下選文:大師簡介:論壇簡介"/>
-    <file name="index.css" crc="4178204850" ref="index"/>
+    <file name="index.css" crc="167587106" ref="index"/>
     <file name="____4.css" crc="4257613245" ref="報名資訊"/>
     <file name="____2.css" crc="35243736" ref="影音簡介"/>
     <file name="____3.css" crc="485018692" ref="天下選文"/>
@@ -33,12 +33,6 @@
     <file name="貼上的影像 1280x1147.jpg" crc="450046200" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="貼上的影像 304x199.jpg" crc="3779422274" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="貼上的影像 1064x856.jpg" crc="3844033470" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="lin-jingyun.jpg" crc="147479604" seo="true" ref="大師簡介">
       <caption webpage="大師簡介" alt=""/>
     </file>
@@ -67,7 +61,7 @@
       <caption webpage="報名資訊" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3974927066" seo="true" mt="1536301464480" redirect="true"/>
+  <file name="index.html" crc="349839380" seo="true" mt="1536303889596" redirect="true"/>
   <file name="大師簡介.html" crc="4209559080" seo="true" mt="1536301464480" redirect="true"/>
   <file name="論壇簡介.html" crc="3937970594" seo="true" mt="1536301464480" redirect="true"/>
   <file name="影音簡介.html" crc="239970980" seo="true" mt="1536301464480" redirect="true"/>
