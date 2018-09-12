@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NCKU.COM" resolutions="1x" timestamp="1536303916367">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="NCKU.COM" resolutions="1x" timestamp="1536735763980">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-__.css" crc="462861836" ref="index:報名資訊:影音簡介:天下選文:大師簡介:論壇簡介"/>
-    <file name="index.css" crc="167587106" ref="index"/>
-    <file name="____4.css" crc="4257613245" ref="報名資訊"/>
-    <file name="____2.css" crc="35243736" ref="影音簡介"/>
-    <file name="____3.css" crc="485018692" ref="天下選文"/>
-    <file name="____.css" crc="451128547" ref="大師簡介"/>
-    <file name="____1.css" crc="331543157" ref="論壇簡介"/>
+    <file name="master_a-__.css" crc="268969406" ref="index:報名資訊:影音簡介:天下選文:大師簡介:論壇簡介"/>
+    <file name="index.css" crc="4171801887" ref="index"/>
+    <file name="____4.css" crc="3993845188" ref="報名資訊"/>
+    <file name="____2.css" crc="344751627" ref="影音簡介"/>
+    <file name="____3.css" crc="4059940548" ref="天下選文"/>
+    <file name="____.css" crc="4171201910" ref="大師簡介"/>
+    <file name="____1.css" crc="3841039484" ref="論壇簡介"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:大師簡介:論壇簡介:影音簡介:天下選文:報名資訊"/>
@@ -26,13 +26,7 @@
     <file name="form-u2993.php" crc="4201474533" ref="報名資訊"/>
   </folder>
   <folder name="images">
-    <file name="u1385-7.png" crc="3880725757" ref="index:大師簡介:論壇簡介:影音簡介:天下選文:報名資訊"/>
-    <file name="1-crop-u265.jpg" crc="4082266029" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="貼上的影像 1280x1147.jpg" crc="450046200" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="u1385-7.png" crc="4096545841" ref="index:大師簡介:論壇簡介:影音簡介:天下選文:報名資訊"/>
     <file name="lin-jingyun.jpg" crc="147479604" seo="true" ref="大師簡介">
       <caption webpage="大師簡介" alt=""/>
     </file>
@@ -41,12 +35,6 @@
     </file>
     <file name="貼上的影像 333x500.jpg" crc="320902117" seo="true" ref="大師簡介">
       <caption webpage="大師簡介" alt=""/>
-    </file>
-    <file name="貼上的影像 2048x1365.jpg" crc="88218178" seo="true" ref="大師簡介">
-      <caption webpage="大師簡介" alt=""/>
-    </file>
-    <file name="老年所不老的幸福領袖論壇 1012018_頁面_2-crop-u1253.jpg" crc="90563894" seo="true" ref="論壇簡介">
-      <caption webpage="論壇簡介" alt=""/>
     </file>
     <file name="road-crop-u1950.jpg" crc="444146588" seo="true" ref="天下選文">
       <caption webpage="天下選文" alt=""/>
@@ -60,11 +48,29 @@
     <file name="貼上的影像 1240x1754.jpg" crc="229313309" seo="true" ref="報名資訊">
       <caption webpage="報名資訊" alt=""/>
     </file>
+    <file name="111197-crop-u3674.jpg" crc="4031322416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的影像 720x960-crop-u3722.jpg" crc="4061520223" seo="true" ref="大師簡介">
+      <caption webpage="大師簡介" alt=""/>
+    </file>
+    <file name="貼上的影像 389x571.jpg" crc="95015321" seo="true" ref="大師簡介">
+      <caption webpage="大師簡介" alt=""/>
+    </file>
+    <file name="貼上的影像 960x678-crop-u3752.jpg" crc="472175215" seo="true" ref="大師簡介">
+      <caption webpage="大師簡介" alt=""/>
+    </file>
+    <file name="貼上的影像 256x256.jpg" crc="4287919499" seo="true" ref="大師簡介">
+      <caption webpage="大師簡介" alt=""/>
+    </file>
+    <file name="貼上的影像 2256x1504-crop-u4147.jpg" crc="341595946" seo="true" ref="論壇簡介">
+      <caption webpage="論壇簡介" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="349839380" seo="true" mt="1536303889596" redirect="true"/>
-  <file name="大師簡介.html" crc="4209559080" seo="true" mt="1536301464480" redirect="true"/>
-  <file name="論壇簡介.html" crc="3937970594" seo="true" mt="1536301464480" redirect="true"/>
-  <file name="影音簡介.html" crc="239970980" seo="true" mt="1536301464480" redirect="true"/>
-  <file name="天下選文.html" crc="3878895508" seo="true" mt="1536301464480" redirect="true"/>
-  <file name="報名資訊.html" crc="3775547630" seo="true" mt="1536301464480" redirect="true"/>
+  <file name="index.html" crc="199342469" seo="true" mt="1536734070446" redirect="true"/>
+  <file name="大師簡介.html" crc="3942487640" seo="true" mt="1536734070446" redirect="true"/>
+  <file name="論壇簡介.html" crc="147752805" seo="true" mt="1536735096783" redirect="true"/>
+  <file name="影音簡介.html" crc="3937181419" seo="true" mt="1536734070446" redirect="true"/>
+  <file name="天下選文.html" crc="501294332" seo="true" mt="1536734070446" redirect="true"/>
+  <file name="報名資訊.html" crc="3815157418" seo="true" mt="1536734070446" redirect="true"/>
 </manifest>

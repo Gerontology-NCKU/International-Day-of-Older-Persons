@@ -2,19 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://NCKU.COM/index.html</loc>
-    <lastmod>2018-09-07</lastmod>
+    <lastmod>2018-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://NCKU.COM/images/1-crop-u265.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://NCKU.COM/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%201280x1147.jpg</image:loc>
+      <image:loc>http://NCKU.COM/images/111197-crop-u3674.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://NCKU.COM/%E5%A4%A7%E5%B8%AB%E7%B0%A1%E4%BB%8B.html</loc>
-    <lastmod>2018-09-07</lastmod>
+    <lastmod>2018-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -27,27 +24,36 @@
       <image:loc>http://NCKU.COM/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%20333x500.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://NCKU.COM/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%202048x1365.jpg</image:loc>
+      <image:loc>http://NCKU.COM/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%20720x960-crop-u3722.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NCKU.COM/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%20389x571.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NCKU.COM/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%20960x678-crop-u3752.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://NCKU.COM/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%20256x256.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://NCKU.COM/%E8%AB%96%E5%A3%87%E7%B0%A1%E4%BB%8B.html</loc>
-    <lastmod>2018-09-07</lastmod>
+    <lastmod>2018-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://NCKU.COM/images/%E8%80%81%E5%B9%B4%E6%89%80%E4%B8%8D%E8%80%81%E7%9A%84%E5%B9%B8%E7%A6%8F%E9%A0%98%E8%A2%96%E8%AB%96%E5%A3%87%201012018_%E9%A0%81%E9%9D%A2_2-crop-u1253.jpg</image:loc>
+      <image:loc>http://NCKU.COM/images/%E8%B2%BC%E4%B8%8A%E7%9A%84%E5%BD%B1%E5%83%8F%202256x1504-crop-u4147.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://NCKU.COM/%E5%BD%B1%E9%9F%B3%E7%B0%A1%E4%BB%8B.html</loc>
-    <lastmod>2018-09-07</lastmod>
+    <lastmod>2018-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://NCKU.COM/%E5%A4%A9%E4%B8%8B%E9%81%B8%E6%96%87.html</loc>
-    <lastmod>2018-09-07</lastmod>
+    <lastmod>2018-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -62,7 +68,7 @@
   </url>
   <url>
     <loc>http://NCKU.COM/%E5%A0%B1%E5%90%8D%E8%B3%87%E8%A8%8A.html</loc>
-    <lastmod>2018-09-07</lastmod>
+    <lastmod>2018-09-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
